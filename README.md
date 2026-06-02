@@ -150,10 +150,15 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxhiru0725&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxhiru0725&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxhiru0725&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxhiru0725&theme=github_dark" height="160" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxhiru0725&theme=github_dark" height="160" alt="Most commit language" />
+</div>
 ---
 
 ## 🎯 Current Focus
