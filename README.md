@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=210&section=header&text=Sahiru%20Imadith%20Hennadige&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Engineering%20Intern%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=16&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+real+full+stack+projects;React+%7C+Node.js+%7C+Python+%7C+SQL;Debugging.+Learning.+Improving.;Open+to+software+engineering+placements" alt="Typing SVG" />
-</p>
-
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" align="left"/>
 
 <h2 align="left">Hey there! I'm Sahiru 👋</h2>
