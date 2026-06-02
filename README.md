@@ -114,9 +114,13 @@ A media gallery platform with protected routes, image upload logic, REST APIs an
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxhiru0725&show_icons=true&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sxhiru0725&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahiru's GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxhiru0725&layout=compact&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxhiru0725&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
