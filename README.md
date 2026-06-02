@@ -198,16 +198,6 @@
 
 ---
 
-## 🟡 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxhiru0725/sxhiru0725/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxhiru0725/sxhiru0725/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sxhiru0725/sxhiru0725/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sxhiru0725.sxhiru0725&left_text=Profile%20Views" />
 </div>
