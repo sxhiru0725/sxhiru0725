@@ -150,8 +150,8 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sxhiru0725/sxhiru0725/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/sxhiru0725/sxhiru0725/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxhiru0725&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxhiru0725&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 </div>
 
 ---
