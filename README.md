@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=210&section=header&text=Sahiru%20Imadith%20Hennadige&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Engineering%20Intern%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=210&section=header&text=Sahiru%20%20Hennadige&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Engineering%20Intern%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=16&animation=fadeIn" />
 </p>
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" align="left"/>
